@@ -1,7 +1,16 @@
-.body{
+body{
 	align: center;
 	vertical-align: middle;
 	background-color: black;
 	font-family: Avenir, Arial, Verdana, Helvetica, Helv, sans-serif;
 	font-size: medium;
+}
+
+.coming-text{
+	align: center;
+	vertical-align: middle;
+	color: white;
+	font-family: Avenir, Arial, Verdana, Helvetica, Helv, sans-serif;
+	font-size: 24px;
+
 }
